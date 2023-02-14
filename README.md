@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github link](https://github.com/Amakoye/qr-code-component-main.git)
-- Live Site URL: [demo link](https://product-preview-card-component-mauve-iota.vercel.app/)
+- Live Site URL: [demo link](https://qr-code-component-main-2t4johakn-amakoye.vercel.app/)
 
 ## My process
 
